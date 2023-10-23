@@ -9,11 +9,13 @@ MERN project built to understand the frontend capabilites brought by React and u
 ### Starting Project
 
 Began setting up the project files and environment using Create-React-App
-* npx create-react-app [my-app]
-
+```console
+npx create-react-app [my-app]
+```
 Used React Router JavaScript Framework to create a single-page website
-* npm install -save react-router-dom@5 -save-exact
-
+```console
+npm install -save react-router-dom@5 -save-exact
+```
 --In Progress
 
 ### Libraries Used
